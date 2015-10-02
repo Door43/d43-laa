@@ -57,4 +57,4 @@ Bena pesabot ni Jesus, "Su dliso hitu, hitu i thalu nu Diwata. Su dalan hitu, hi
 
 
 
-// A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15 //
+// Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15 //
